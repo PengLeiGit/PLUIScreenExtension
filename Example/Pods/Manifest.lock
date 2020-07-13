@@ -1,0 +1,16 @@
+PODS:
+  - PLUIScreenExtension (0.1.0)
+
+DEPENDENCIES:
+  - PLUIScreenExtension (from `../`)
+
+EXTERNAL SOURCES:
+  PLUIScreenExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLUIScreenExtension: 37ce54c1a476dba7163094a3d9bd85b60ef2488c
+
+PODFILE CHECKSUM: 71cd78802ea9fea5f7d62678fa623ff05eacbad4
+
+COCOAPODS: 1.9.1

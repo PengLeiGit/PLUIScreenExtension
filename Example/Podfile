@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PLUIScreenExtension_Example' do
+  pod 'PLUIScreenExtension', :path => '../'
+
+  target 'PLUIScreenExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

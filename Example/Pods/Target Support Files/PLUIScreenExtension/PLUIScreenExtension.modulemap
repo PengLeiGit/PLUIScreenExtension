@@ -1,0 +1,6 @@
+framework module PLUIScreenExtension {
+  umbrella header "PLUIScreenExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

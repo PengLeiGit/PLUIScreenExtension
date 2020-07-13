@@ -1,0 +1,6 @@
+framework module Pods_PLUIScreenExtension_Tests {
+  umbrella header "Pods-PLUIScreenExtension_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
